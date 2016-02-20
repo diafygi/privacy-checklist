@@ -21,7 +21,7 @@ least the easy stuff. Pull requests welcome!
     * [ ] OpenVPN ([Windows](https://openvpn.net/index.php/open-source/downloads.html), [Mac](https://tunnelblick.net/), [Linux](https://www.linux.com/learn/tutorials/459675:configure-linux-clients-to-connect-to-openvpn-server)) - paid, faster obfuscation of browsing ([list of VPNs](https://torrentfreak.com/anonymous-vpn-service-provider-review-2015-150228/))
     * [ ] [Tor Browser](https://www.torproject.org/projects/torbrowser.html.en) - free, slower, safer obfuscation of browsing
 * Hard
-    * Reduce fingerprints ([tool](https://panopticlick.eff.org/)) - really hard to totally eliminate brower fingerprints
+    * [ ] Reduce fingerprints ([tool](https://panopticlick.eff.org/)) - really hard to totally eliminate brower fingerprints
 
 ## Email
 * Easy
@@ -42,15 +42,15 @@ least the easy stuff. Pull requests welcome!
     * [iMessage](https://www.apple.com/ios/messages/) - end-to-end encrypted texts, but proprietary code (only use if Signal doesn't work)
     * [WhatsApp](https://www.whatsapp.com/) - partial end-to-end encrypted texts, but proprietary code (only use if Signal doesn't work)
 * Medium
-    * Off-The-Record (OTR) - [Windows](https://ssd.eff.org/en/module/how-use-otr-windows), [Mac](https://ssd.eff.org/en/module/how-use-otr-mac), [Linux](https://ssd.eff.org/en/module/how-use-otr-linux), [iPhone](https://chatsecure.org/), [Android](https://chatsecure.org/)
+    * [ ] Off-The-Record (OTR) - [Windows](https://ssd.eff.org/en/module/how-use-otr-windows), [Mac](https://ssd.eff.org/en/module/how-use-otr-mac), [Linux](https://ssd.eff.org/en/module/how-use-otr-linux), [iPhone](https://chatsecure.org/), [Android](https://chatsecure.org/)
 
 ## File Storage
 * Easy
-    * Enable encryption ([iPhone](https://ssd.eff.org/en/module/how-encrypt-your-iphone), [Android](http://www.howtogeek.com/141953/how-to-encrypt-your-android-phone-and-why-you-might-want-to/), [Mac](https://support.apple.com/en-us/HT204837))
+    * [ ] Enable encryption ([iPhone](https://ssd.eff.org/en/module/how-encrypt-your-iphone), [Android](http://www.howtogeek.com/141953/how-to-encrypt-your-android-phone-and-why-you-might-want-to/), [Mac](https://support.apple.com/en-us/HT204837))
 * Medium
-    * Encrypted cloud backups ([SpiderOak](https://spideroak.com/)) - paid and proprietary, but easier than running your own server
+    * [ ] Encrypted cloud backups ([SpiderOak](https://spideroak.com/)) - paid and proprietary, but easier than running your own server
 * Hard
-    * Windows and Linux encryption ([Windows](https://ssd.eff.org/en/module/how-encrypt-your-windows-device), [Linux](https://wiki.archlinux.org/index.php/disk_encryption))
+    * [ ] Windows and Linux encryption ([Windows](https://ssd.eff.org/en/module/how-encrypt-your-windows-device), [Linux](https://wiki.archlinux.org/index.php/disk_encryption))
 
 # Further Reading
 * [ ] [Surveillance Self-Defense](https://ssd.eff.org/)

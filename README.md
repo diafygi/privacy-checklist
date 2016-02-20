@@ -51,6 +51,7 @@ least the easy stuff. Pull requests welcome!
     * [ ] Encrypted cloud backups ([SpiderOak](https://spideroak.com/)) - paid and proprietary, but easier than running your own server
 * Hard
     * [ ] Windows and Linux encryption ([Windows](https://ssd.eff.org/en/module/how-encrypt-your-windows-device), [Linux](https://wiki.archlinux.org/index.php/disk_encryption))
+    * [ ] PGP ([GnuPG](https://www.gnupg.org/)) - for specific file encryption on USB drive, external device, etc.
 
 # Further Reading
 * [ ] [Surveillance Self-Defense](https://ssd.eff.org/)

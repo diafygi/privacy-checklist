@@ -54,5 +54,5 @@ least the easy stuff. Pull requests welcome!
     * [ ] PGP ([GnuPG](https://www.gnupg.org/)) - for specific file encryption on USB drive, external device, etc.
 
 # Further Reading
-* [ ] [Surveillance Self-Defense](https://ssd.eff.org/)
+* [ ] Coming soon
 
